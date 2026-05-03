@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://lanyard.cnrad.dev/">
-<img src="https://lanyard.cnrad.dev/api/598624275083034654" />
+<img src="https://lanyard.cnrad.dev/api/598624275083034654?idleMessage=hi&animatedDecoration=true" />
 </a>
 </div>
 
