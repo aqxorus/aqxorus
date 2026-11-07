@@ -9,13 +9,13 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/Aqxorus/github-readme-stats">
+<a href="https://github.com/aqxorus/github-stats-extended">
 <img src="https://aqxorus-stats.vercel.app/api/top-langs/?username=aqxorus&theme=blue_navy&card_width=550&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/Aqxorus/github-readme-stats">
+<a href="https://github.com/aqxorus/github-stats-extended">
 <img src="https://aqxorus-stats.vercel.app/api?username=aqxorus&theme=blue_navy&hide_rank=true&card_width=550&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 </div>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<a href="https://tidal.com">
+<a href="https://spotify.com">
 <img src="https://aqxorus-spotify.vercel.app/api/orchestrator?background_type=blur_dark" />
 </a>
 </div>
