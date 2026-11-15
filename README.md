@@ -1,7 +1,5 @@
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="center">stats</h3>
-
 <div align="center">
 <a href="https://lanyard.cnrad.dev/">
 <img src="https://lanyard.cnrad.dev/api/598624275083034654?idleMessage=hi&animatedDecoration=true" />
